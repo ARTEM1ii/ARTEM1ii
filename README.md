@@ -30,6 +30,8 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![html](https://img.shields.io/badge/html-AA008B)
 ![css](https://img.shields.io/badge/css-0F458B)
 
+---
+
 ## Opportunity to contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/BackendDeveloperGolang)
