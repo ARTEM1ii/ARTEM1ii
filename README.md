@@ -37,3 +37,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=ARTEM1ii&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTEM1ii&count_private=true&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+![3RD1](https://github.com/user-attachments/assets/813713cc-be51-4b5f-9f20-cca351701d30)
+![1pc8](https://github.com/user-attachments/assets/ee434861-6fc1-4904-8fcf-dcfc64c84b50)
+![1KxD](https://github.com/user-attachments/assets/17295d98-c973-4154-a991-08290897da4b)
