@@ -16,7 +16,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 
 
-![Git](https://img.shields.io/badge/git-000080)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-0000FF)
 ![Fork](https://img.shields.io/badge/fork-00FFFF)
 ![SQL](https://img.shields.io/badge/SQL-00FF05)
