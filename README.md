@@ -1,4 +1,6 @@
-![3RD1-ezgif com-resize](https://github.com/user-attachments/assets/26e104d9-acd9-4bfe-b20a-1177d0fd37ac)
+
+![1KxD-ezgif com-resize](https://github.com/user-attachments/assets/2c1837b5-6979-41c1-96b6-dae588054fae)
+
 
 # Hi :wave:, I'm a backend developer in Go.
 
