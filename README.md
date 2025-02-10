@@ -15,18 +15,15 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white")
 
 
-![GitHub](https://img.shields.io/badge/github-0000FF)
-![Fork](https://img.shields.io/badge/fork-00FFFF)
-![SQL](https://img.shields.io/badge/SQL-00FF05)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-998910)
-![pgAdmin4](https://img.shields.io/badge/pgAdmin4-808000)
-![Postman](https://img.shields.io/badge/Postman-FFFF00)
-![GoLand](https://img.shields.io/badge/GoLand-800085)
-![CLion](https://img.shields.io/badge/CLion-B0C0F5)
-![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
-![Power_shell](https://img.shields.io/badge/Markdown-FF5555)
-![html](https://img.shields.io/badge/html-AA008B)
-![css](https://img.shields.io/badge/css-0F458B)
+![Mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
+![VS code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
