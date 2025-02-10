@@ -1,5 +1,3 @@
-
-![1KxD-ezgif com-resize](https://github.com/user-attachments/assets/2c1837b5-6979-41c1-96b6-dae588054fae)
 ![1KxD-ezgif com-resize](https://github.com/user-attachments/assets/04d409a2-e79a-4d40-a496-0cc8ba935970)
 
 
