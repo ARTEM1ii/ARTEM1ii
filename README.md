@@ -30,16 +30,6 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![html](https://img.shields.io/badge/html-AA008B)
 ![css](https://img.shields.io/badge/css-0F458B)
 
-### Additional hard skills:
-
-![Blender 3D](https://img.shields.io/badge/Blender_3D-FCA305) 
-![LaTeX](https://img.shields.io/badge/LaTeX-50F115) 
-![Ureal Ungine 5](https://img.shields.io/badge/Ureal_Ungine_5-50F0F5) 
-![Blueprints](https://img.shields.io/badge/Blueprints-231AB5)
-![WindowsForms](https://img.shields.io/badge/Windows_Forms-203185)
-
----
-
 ## Opportunity to contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/BackendDeveloperGolang)
