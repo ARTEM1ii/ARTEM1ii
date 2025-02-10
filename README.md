@@ -1,6 +1,6 @@
 ![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
-# Hi :wave:, I'm a backend developer in Go. ![github profile views](https://komarev.com/ghpvc/?username=CombiningIdeas&color=brightgreen&styles=plastic&base=1000) ![All stars on account](https://img.shields.io/github/stars/CombiningIdeas?style=plastic)
+# Hi :wave:, I'm a backend developer in Go.
 
 
 If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
@@ -11,8 +11,9 @@ It is better to write less code and simpler than more code and more complex. :wh
 ## Languages and Tools
 ![Golang](https://img.shields.io/badge/Golang-00CED1?style=for-the-badge&logo=go&logoColor=00008B)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=FF0000)
-![C](https://img.shields.io/badge/C-DCDCDC?style=for-the-badge&logo=C&logoColor=696969)
 ![Python](https://img.shields.io/badge/Python-87CEE0?style=for-the-badge&logo=python&logoColor=FFFF00)
+ <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+
 
 
 ![Git](https://img.shields.io/badge/git-000080)
