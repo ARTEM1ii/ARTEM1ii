@@ -16,6 +16,7 @@ It is better to write less code and simpler than more code and more complex. :wh
 ![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white")
 
 
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 ![Mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 ![VS code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
