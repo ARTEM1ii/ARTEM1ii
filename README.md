@@ -11,9 +11,8 @@ It is better to write less code and simpler than more code and more complex. :wh
 
 ## Languages and Tools
 ![Golang](https://img.shields.io/badge/Golang-00CED1?style=for-the-badge&logo=go&logoColor=00008B)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=FF0000)
 ![Python](https://img.shields.io/badge/Python-87CEE0?style=for-the-badge&logo=python&logoColor=FFFF00)
-![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white")
+
 
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
