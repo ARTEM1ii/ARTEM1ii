@@ -1,7 +1,7 @@
 ![1KxD-ezgif com-resize](https://github.com/user-attachments/assets/04d409a2-e79a-4d40-a496-0cc8ba935970)
 
 
-# Hi :wave:, I'm a backend developer in Go.
+# Hi :wave:, I'm a backend developer in Node.js.
 
 
 If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
@@ -10,9 +10,8 @@ It is better to write less code and simpler than more code and more complex. :wh
 ---
 
 ## Languages and Tools
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00CED1?style=for-the-badge&logo=go&logoColor=00008B)
-![Python](https://img.shields.io/badge/Python-87CEE0?style=for-the-badge&logo=python&logoColor=FFFF00)
-
 
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
